@@ -1,0 +1,294 @@
+,Title,Authors,Year,Database,Editor,GA1,GA2,GA3,SA1,SA2,SA3,QS
+0,A balanced heuristic mechanism for Multirobot task allocation of intelligent warehouses,"Zhou, Luowei, Shi, Yuanyuan, Wang, Jiangliu, Yang, Pei",2014,Scopus,Hindawi,1,1,1,1,0.5,0.5,3.0
+1,A Bayesian formulation for auction-based task allocation in heterogeneous multi-agent teams,"Pippin, Charles E., Christensen, Henrik",2011,Scopus,Spie,1,1,1,1,0.0,0.0,2.0
+2,A Behavior Based Architecture withAuction-Based Task Assignment for Multi-robotIndustrial Applications,"PaulaGarcia,Pilar Caama ?no, FranciscoBellas, andRichardJ. Duro",2009,SpringerLink,Springer,1,0,0.5,1,0.0,0.0,1.5
+3,"A behavior based layered, hybrid, control architecture for robot/sensor networks","Akin, Berkant, Erkmen, Aydan M., Erkmen, Ismet",2006,Scopus,IEEE,0.5,0.5,0,1,0.0,0.0,1.3333333333333333
+4,A Clustering Market-Based Approach for Multi-robot Emergency Response Applications,"Trigui, Sahar, Koub�a, Anis, Cheikhrouhou, Omar, Qureshi, Basit, Youssef, Habib",2016,Scopus,IEEE,0.5,0.5,1,1,0.0,0.0,1.6666666666666665
+5,A combinatorial auction framework for decentralised task allocation,"Segui-Gasco, Pau, Shin, Hyo Sang, Tsourdos, Antonios, Segui, V. J.",2014,IEEE,IEEE,1,0.5,1,1,1.0,1.0,3.833333333333333
+6,A Comparative Study between Optimization and Market-Based Approaches to Multi-Robot Task Allocation,"Badreldin, Mohamed, Hussein, Ahmed, Khamis, Alaa",2013,ACM,Hindawi,1,0,1,1,0.5,1.0,3.1666666666666665
+7,A comparative study of dynamical sequential and global optimal task reallocation methodology for distributed multi-robot system,"Li, Guanghui, Tamura, Yusuke, Asama, Hajime",2011,IEEE,IEEE,1,0,0.5,1,0.5,0.5,2.5
+8,A Comparative Study of Market-Based and Threshold-Based Task Allocation,"Kalra, Nidhi, Martinoli, Alcherio",2006,SpringerLink,Springer,1,0,1,1,1.0,0.5,3.1666666666666665
+9,A Comparative Study of Task Assignment and Path Planning Methods for Multi-UGV Missions,"Johan Thunberg, David A. Anisi, Petter Ögren",2009,Scopus,Springer,1,1,1,0.5,0.0,0.0,1.5
+10,A Complete Methodology for Generating Multi-Robot Task Allocation using ASyMTRe-D and Market-Based Task Allocation,"Tang, Fang, Parker, Lynne E",2007,IEEE,IEEE,1,1,1,0,0.5,0.0,1.5
+11,A contract net protocol based on information intermediary service in multi-agent system,"Yun, Haishun, Li, Qingshan, Jiang, Dan, Liu, He, Mao, Shaojie, Li, Yuping",2009,IEEE,IEEE,0.5,0,0.5,1,1.0,0.5,2.833333333333333
+12,A Cross-Landscape Evaluation of Multi-robot Team Performance in Static Task-Allocation Domains,Dingdian Zhang,2019,Scopus,Springer,1,1,1,1,1.0,1.0,4.0
+13,A delegation-based cooperative robotic framework,"Doherty, Patrick, Heintz, Fredrik",2011,IEEE,IEEE,1,0,1,0,1.0,0.0,1.6666666666666665
+14,A distributed algorithm for balanced multi-robot task allocation,"Gautam, Avinash, Thakur, Amitayush, Dhanania, Garima, Mohan, Sudeept",2016,IEEE,IEEE,1,0,0.5,1,1.0,0.5,3.0
+15,A distributed bidirectional auction algorithm for multirobot coordination,"Song, Tao, Yan, Xinan, Liang, Alei, Chen, Kai, Guan, Haibing",2009,IEEE,IEEE,0.5,0,0.5,1,0.0,1.0,2.333333333333333
+16,A distributed market-based algorithm for the multi-robot assignment problem,"Trigui, Sahar, Koubaa, Anis, Cheikhrouhou, Omar, Youssef, Habib, Bennaceur, Hachemi, Sriti, Mohamed, Foued, Javed, Yasir",2014,ScienceDirect,Elsevier,1,0.5,1,1,0.5,1.0,3.333333333333333
+17,A distributed method for dynamic multi-robot task allocation problems with critical time constraints,"Chen, Xinye, Zhang, Ping, Du, Guanglong, Li, Fang",2019,ScienceDirect,Elsevier,1,0.5,1,1,0.5,1.0,3.333333333333333
+18,A Distributed Task Allocation Algorithm for a Multi-Robot System in Healthcare Facilities,"Das, Gautham P., McGinnity, Thomas M., Coleman, Sonya A., Behera, Laxmidhar",2015,SpringerLink,Springer,1,1,1,1,1.0,0.5,3.5
+19,A dynamic task equilibrium allocation algorithm based on combinatorial auctions,"Cui, Ying, Wu, Xiao, Song, Jiao, Ma, Huijiao",2016,IEEE,IEEE,0.5,0,0.5,0.5,0.0,1.0,1.8333333333333333
+20,A fast distributed auction and consensus process using parallel task allocation and execution,"Das, G. P., McGinnity, T. M., Coleman, S. A., Behera, L.",2011,IEEE,IEEE,1,0,0.5,1,1.0,0.5,3.0
+21,A field-based versus a protocol-based approach for adaptive task assignment,"Weyns, Danny, Bouck�, Nelis, Holvoet, Tom",2008,ACM,Springer,1,0,0.5,0.5,0.5,1.0,2.5
+22,A GA Based Combinatorial Auction Algorithm for Multi-robot Cooperative Hunting,"Jianwei Gong, Jianyong Qi, Guangming Xiong, Huiyan Chen",2007,ACM,IEEE,1,0,1,0.5,0.0,0.5,1.6666666666666665
+23,A Hierarchical Market Solution to the Min-Max Multiple Depots Vehicle Routing Problem,"Kivelevitch, Elad, Sharma, Balaji, Ernest, Nicholas, Kumar, Manish, Cohen, Kelly",2014,Scopus,World Scientific Publishing Company,1,1,1,0.5,1.0,0.0,2.5
+24,A hierarchical task allocation method based on task case and its application to multi-robot hunting,"Ma, Ying, Cao, Zhiqiang, Zhou, Chao, Tan, Min",2008,Scopus,IEEE,0.5,0.5,0.5,1,0.0,0.0,1.5
+25,A market based approach for complex task allocation for wireless network based multi-robot system,"Ljesnjanin, Merid, Velagic, Jasmin",2009,IEEE,IEEE,0,0,1,1,0.0,0.5,1.8333333333333333
+26,A Market Based Distributed Cooperation Mechanism in a Multi-Robot Transportation Problem,Ghader Simzan,2011,IEEE,IEEE,0.5,0,1,1,0.0,0.0,1.5
+27,A Market Mechanism for QoS-aware Multi-Robot Task Allocation,"Barile, Francesco, Rossi, Alessandra, Staffa, Maricarla, Napoli, Claudia Di, Rossi, Silvia",2015,Scopus,Unknown,1,0.5,0.5,1,0.0,0.0,1.6666666666666665
+28,A market-based solution to the multiple traveling salesmen problem,"Kivelevitch, Elad, Cohen, Kelly, Kumar, Manish",2013,SpringerLink,Springer,1,0,1,0.5,0.0,1.0,2.1666666666666665
+29,A market-based task allocation framework for autonomous underwater surveillance networks,"Gabriele Ferri, Andrea Munaf`o, Alessandra Tesei, Kevin LePage",2017,IEEE,IEEE,1,1,1,1,1.0,0.0,3.0
+30,A Mission Planning and Task Allocation Framework For Multi-UAV Swarm Coordination,"Autenrieb, Johannes, Strawa, Natalia, Shin, Hyo-Sang, Hong, Ju-Hyeon",2019,IEEE,IEEE,1,1,1,0,0.0,0.0,1.0
+31,A Multi-agent Negotiation Protocol based on Extended Case Based Reasoning *,"Wan, Wu-Nan, Zhang, Jin-Quan, Wang, Ming",2007,IEEE,IEEE,0.5,0.5,1,0.5,1.0,1.0,3.1666666666666665
+32,A Multi-Level Architecture for Solving the Multi-Robot Task Allocation Problem using a Market-Based Approach,"Bahgat, Ali B, Shehata, Omar M, Sayed, El, Morgan, I",2020,Scopus,International Journal of Mechanical Engineering and Robotics Research ,0.5,0,0.5,1,0.0,0.0,1.3333333333333333
+33,A multi-robot coordination approach for autonomous runway Foreign Object Debris (FOD) clearance,"�zt�rk, Sava?, Kuzucuo?lu, Ahmet Emin",2016,ScienceDirect,Elsevier,1,0.5,1,1,0.0,0.0,1.8333333333333333
+34,A new architecture for multi-robot teams in market-based applications,"Gurel, Ugur, Parlaktuna, Osman",2011,IEEE,IEEE,0.5,0,1,0.5,0.5,0.0,1.5
+35,A new multi-satellite autonomous mission allocation and planning method,"Du, Bin, Li, Shuang",2019,ScienceDirect,Elsevier,1,0.5,1,0.5,0.0,0.5,1.8333333333333333
+36,A Novel Hybrid Auction Algorithm for Multi-UAVs Dynamic Task Assignment,"Duan, Xiaojun, Liu, Huiying, Tang, Hong, Cai, Qing, Zhang, Fan, Han, Xiaotian",2019,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+37,A novel stochastic clustering auction for task allocation in multi-robot teams,"Zhang, Kai, Collins, Emmanuel G., Barbu, Adrian",2010,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+38,A novel task optimal allocation approach based on Contract Net Protocol for Agent-oriented UUV swarm system modeling,"Liang, Hongtao, Kang, Fengju",2016,ScienceDirect,Elsevier,1,0,1,1,0.5,0.5,2.6666666666666665
+39,A preference-based task allocation framework for multi-robot coordination,"Lee, Dong Hyun, Han, Ji Hyeong, Kim, Jong Hwan",2011,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+40,"A Resource-Oriented, Decentralized Auction Algorithm for Multirobot Task Allocation","Lee, Dong Hyun, Zaheer, Sheir Afgen, Kim, Jong Hwan",2015,IEEE,IEEE,1,0.5,1,1,1.0,1.0,3.833333333333333
+41,A simultaneous descending auction for task allocation,"Service, Travis C., Sen, Sayan D., Adams, Julie A.",2014,IEEE,IEEE,1,0,1,0.5,0.0,1.0,2.1666666666666665
+42,A Study of Coordinated Dynamic Market-Based Task Assignment in Massively Multi-Agent Systems,"Ham, Myungjoo, Agha, Gul",2007,SpringerLink,Springer,1,0,1,1,0.5,1.0,3.1666666666666665
+43,A task allocation algorithm based on market mechanism for multiple robot systems,"Wang, Zhongya, Li, Min, Li, Jie, Cao, Jinge, Wang, Hanqing",2016,IEEE,IEEE,0.5,0,0.5,1,0.0,0.5,1.8333333333333333
+44,A TIME-RELATED BIDDING TACTICS MODEL FOR MULTI-AGENTS SYSTEM,"YU-LAN MA, BANG-QING LI",2008,IEEE,IEEE,0.5,0,0,0.5,0.0,0.0,0.6666666666666666
+45,A Truthful Mechanism For Mobility Management In Unmanned Aerial Vehicles Networks,"Geng, Baocheng, Brahma, Swastik, Varshney, Pramod K",2019,IEEE,IEEE,1,0.5,1,0.5,0.5,0.5,2.333333333333333
+46,A-STC: auction-based spanning tree coverage algorithm formotion planning of cooperative robots,"Gao, Guan Qiang, Xin, Bin",2019,Scopus,Springer,1,1,1,1,0.5,0.5,3.0
+47,Adaptive Multi-agent System for Situated Task Allocation,"Baert, Quentin, Caron, Anne-C�cile, Morge, Maxime, Routier, Jean-Christophe, Stathis, Kostas",2019,ACM,IFAAMAS,1,0,0.5,1,0.0,0.5,2.0
+48,Adaptive Probabilistic Task Allocation in Large-Scale Multi-Agent Systems and its Evaluation,Toshiharu Sugawara,2010,ACM,ACM,1,0,0.5,1,0.0,0.5,2.0
+49,Adaptive Risk-Based Replanning For Human-Aware Multi-Robot Task Allocation With Local Perception,"Talebpour, Zeynab, Martinoli, Alcherio",2019,IEEE,IEEE,1,0,1,0.5,0.0,0.0,1.1666666666666665
+50,Agent-based task allocation under uncertainties in disaster environments: An approach to interval uncertainty,"Hooshangi, Navid, Asghar Alesheikh, Ali",2017,ScienceDirect,Elsevier,1,0,1,0.5,0.0,0.5,1.6666666666666665
+51,Agent-based task assignment in multi-hop wireless sensor and robot networks improved by iMesh and auctions,"Gasparovic, Bojan, Mezei, Ivan",2012,IEEE,IEEE,0.5,0,0.5,1,1.0,0.0,2.333333333333333
+52,Agents Preferences in Decentralized Task Allocation,"Hoogendoorn, Mark, Gini, Maria L",2008,ACM,IOS Press,1,0,0.5,1,0.0,0.0,1.5
+53,Altruistic task allocation despite unbalanced relationships within multi-robot communities,"Morton, Ryan D., Bekey, George A., Clark, Christopher M.",2009,IEEE,IEEE,1,0,1,0.5,0.0,0.5,1.6666666666666665
+54,An Auction-Based Approach for Group Task Allocation in an Open Network Environment,"Kong, Yan, Zhang, Minjie, Ye, Dayong",2014,IEEE,IEEE,1,1,1,0.5,0.0,1.0,2.5
+55,An auction-based approach to control automated warehouses using smart vehicles,"Basile, F., Chiacchio, P., Di Marino, E.",2019,Scopus,Elsevier,1,1,1,1,0.5,0.0,2.5
+56,An auction-based approach with closed-loop bid adjustment to dynamic task allocation in robot teams,"Zhu, WK; Choi, SH",2011,Scopus,Springer,1,0.5,1,1,1.0,0.0,2.833333333333333
+57,An Auction-Based Multiple Constraints Task Allocation Algorithm for Multi-UAV System,"Cheng, Qiao, Yin, Dong, Yang, Jian, Shen, Lincheng",2017,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+58,An auction-based rescue task allocation approach for heterogeneous multi-robot system,"Shi, Jieke, Yang, Zhou, Zhu, Junwu",2018,SpringerLink,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+59,An auction-based resource allocation strategy for joint-surveillance using networked multi-robot systems,"Wang, Lujia, Liu, Ming, Meng, Max Q.H.",2013,IEEE,IEEE,0.5,0,1,0.5,0.5,0.0,1.5
+60,An Auction-Based Task Allocation Algorithm in Heterogeneous Multi-Robot System,"Jieke Shi, Zhou Yang, and Junwu Zhu",2020,SpringerLink,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+61,An efficient stochastic clustering auction for heterogeneous robotic collaborative teams,"Zhang, Kai, Collins, Emmanuel G., Barbu, Adrian",2013,Scopus,Springer,1,1,1,1,0.5,0.5,3.0
+62,An Empirical Evaluation of Auction-based Task Allocation in Multi-robot Teams,"Schneider, Eric, Balas, Ofear, �zgelen, A Tuna, Sklar,, Elizabeth I, Parsons, Simon",2014,ACM,IFAAMAS,0.5,0,1,1,0.5,1.0,3.0
+63,An Evolutionary Traveling Salesman Approach for Multi-Robot Task Allocation,"Arif, Muhammad Usman, Haider, Sajjad",2017,Scopus,SciTePress,1,0.5,0.5,0.5,0.0,0.0,1.1666666666666665
+64,"An extension of consensus-based auction algorithms for decentralized, time-constrained task assignment","Mercker, Travis, Casbeer, David W., Millet, P. Travis, Akella, Maruthi R.",2010,IEEE,IEEE,1,0,1,0,1.0,0.5,2.1666666666666665
+65,An improved contract net protocol based on concurrent trading mechanism,"Liu, Changyou; Wang, Haiyan",2011,IEEE,IEEE,0.5,0,0,1,0.0,0.5,1.6666666666666667
+66,An Improved Market-Based Auction Algorithm for UAVs Task Assignment Problem,Xin Liu and Ronggang Zhu,2012,SpringerLink,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+67,An Improvement to CNCP in Large-Scale Muti-Agent System,Jian Yang,2008,IEEE,IEEE,0.5,0,1,1,0.5,0.0,2.0
+68,An Incidental Delivery Based Method for Resolving Multirobot Pairwised Transportation Problems,"Liu, Zhe, Wang, Hesheng, Chen, Weidong, Yu, Junzhi, Chen, Jian",2016,IEEE,IEEE,1,0,1,0,0.0,1.0,1.6666666666666665
+69,An iterative strategy for task assignment and path planning of distributed multiple unmanned aerial vehicles,"Yao, Weiran, Qi, Naiming, Wan, Neng, Liu, Yongbei",2019,ScienceDirect,Elsevier,1,0,1,1,0.0,1.0,2.6666666666666665
+70,Analysis of Cluster Formation Techniques for Multi-Robot Task Allocation using Sequential Single-Cluster Auctions,"Heap, Bradford, Pagnucco, Maurice",2012,SpringerLink,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+71,Application of a probabilistic market-based approach in UAV sensor &amp, perception management,2013,IEEE,IEEE,0.5,1,1,0.5,0.0,0.0,1.3333333333333333
+72,Auction Aggregation Protocols for Wireless Robot-Robot Coordination,"Mezei, Ivan, Malbasa, Veljko, Stojmenovic, Ivan",2009,SpringerLink,Springer,1,0,1,1,1.0,0.5,3.1666666666666665
+73,Auction based method for graphic-like maps inspection by multi-robot system in simulated and real environments,"Mart�n-Ortiz, Manuel, De Lope, Javier, De La Paz, F�lix",2013,ScienceDirect,Elsevier,1,0,1,1,0.5,0.0,2.1666666666666665
+74,Auction-based fault-tolerant multi-robot cooperation,"Khan, Muhammad T., De Silva, Clarence W., Khan, Afzal",2012,Scopus,ACTA Press,1,0,0,1,0.0,0.0,1.3333333333333333
+75,Auction-based mechanisms for the control ofvehicles in Smart Logistic Systems,"Francesco Basile, Pasquale Chiacchio and Emiliano Di Marino",2019,Scopus,IEEE,1,1,1,1,1.0,0.0,3.0
+76,Auction-based Multi-Robot Task Allocation in COMSTAR,"Matthew Hoeing1, Prithviraj Dasgupta1,PlamenPetrov2, Stephen O�Hara",2007,ACM,IFAAMAS,0.5,1,1,1,1.0,1.0,3.833333333333333
+77,Auction-based strategies for the open-system patrolling task Auction-based strategies for the open-system patrolling task.,"Poulet, Cyril, Corruble, Vincent, El Fallah-Seghrouchni, Amal, El Fallah Seghrouchni, Amal",2012,SpringerLink,Springer,1,0,1,1,0.5,1.0,3.1666666666666665
+78,Auction-based task allocation for multi-robot teams in dynamic environments,"Schneider, Eric, Sklar, Elizabeth I, Parsons, Simon, Ozgelen, A Tun�",2015,SpringerLink,Springer,1,0.5,1,1,0.0,1.0,2.833333333333333
+79,Auction-based task allocation scheme for dynamic coalition formations in limited robotic swarms with heterogeneous capabilities,"Irfan, Muhammad, Farooq, Adil",2016,IEEE,IEEE,1,0,0.5,1,0.0,0.0,1.5
+80,Auctioning over Probabilistic Options for Temporal Logic-Based Multi-Robot Cooperation under Uncertainty,"Schillinger, Philipp, Burger, Mathiasn, Dimarogonas, Dimos V.",2018,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+81,Auctioning Robotic Tasks With Overlapping Time Windows,"Nunes, Ernesto, Nanjanath, Maitreyi, Gini, Maria",2012,ACM,IFAAMAS,0.5,0,1,1,0.0,1.0,2.5
+82,Auctions for multi-robot task allocation in communication limited environments,"Otte, Michael, Kuhlman, Michael J., Sofge, Donald",2020,SpringerLink,Springer,1,0.5,1,1,1.0,1.0,3.833333333333333
+83,Autonomous and Market-Based Fault Tolerant Algorithms for Multi-Robot Cooperation,"Tahir Khan, M, De Silva, C W",2014,Scopus,Unknown,1,1,1,1,0.5,0.0,2.5
+84,Autonomous in-orbit satellite assembly from a modular heterogeneous swarm,"Foust, Rebecca C., Lupu, E. Sorina, Nakka,, Yashwanth K., Chung, Soon Jo, Hadaegh, Fred Y.",2020,ScienceDirect,Elsevier,1,1,1,1,0.0,0.0,2.0
+85,Autonomous market-based multi-robot cooperation,"Tahir Khan, M., Imanuel, T., De Silva, C. W.",2010,IEEE,IEEE,0.5,0,1,1,0.5,0.0,2.0
+86,Autonomous underwater surveillance networks: a task allocation framework to manage cooperation,"Ferri, Gabriele, Bates, Jeffrey, Stinco, Pietro, Tesei, Alessandra, LePage, Kevin",2019,IEEE,IEEE,1,0.5,1,1,1.0,0.0,2.833333333333333
+87,Balancing task allocation in multi-robot systems using K-means clustering and auction based mechanisms,"Elango, Murugappan, Nachiappan, Subramanian, Tiwari, Manoj Kumar",2011,ScienceDirect,Elsevier,1,0,1,1,0.0,0.5,2.1666666666666665
+88,Boolean networks-based auction algorithm for task assignment of multiple uavs,"Sun, Xiaolei, Qi, Naiming, Yao, Weiran",2015,Scopus,Hindawi,1,1,1,0.5,0.5,0.0,2.0
+89,Centralized and distributed task allocation in multi-robot teams via a stochastic clustering auction,"Zhang, Kai, Collins, Emmanuel G., Shi, Dongqing",2012,ACM,ACM,1,0.5,1,1,1.0,1.0,3.833333333333333
+90,CNP Based Satellite Constellation Online Coordination Under Communication Constraints,"Guoliang Li(B), Lining Xing, and Yingwu Chen",2017,SpringerLink,Springer,1,0.5,1,1,0.5,0.0,2.333333333333333
+91,Collaborative task assignment scheme for multi-UAV based on cluster structure,"Tang, Shuyan, Qin, Zheng, Xin, Jiankuan",2010,IEEE,IEEE,0.5,0,1,0.5,0.0,1.0,2.0
+92,Collision-aware Task Assignment for Multi-Robot Systems,"Fang Wu, Vivek Shankar Varadharajan and Giovanni Beltrame",2019,IEEE,IEEE,1,0.5,1,0.5,0.0,1.0,2.333333333333333
+93,Combinatorial auction method for decentralized task assignment of multiple-loading capacity AGV based on intelligent agent architecture,"Fauadi, Muhammad Hafidz Fazli Bin Md, Li, Wan Ling, Murata, Tomohiro",2011,IEEE,IEEE,0.5,0.5,1,1,0.5,0.0,2.1666666666666665
+94,Comparative experiments on optimization criteria and algorithms for auction based multi-robot task allocation,"Mosteo, Alejandro R, Montano, Luis",2007,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+95,Competitive analysis of repeated greedy auction algorithm for online multi-robot task assignment,"Luo, Lingzhi, Chakraborty, Nilanjan, Sycara, Katia",2012,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+96,Complex task allocation in mobile surveillance systems,"Khamis, Alaa M., Elmogy, Ahmed M., Karray, Fakhri O.",2011,SpringerLink,Springer,1,0.5,1,1,0.0,1.0,2.833333333333333
+97,Consensus-based decentralized auctions for robust task allocation,"Choi, Han Lim, Brunet, Luc, How, Jonathan P.",2009,IEEE,IEEE,1,0,1,1,1.0,1.0,3.6666666666666665
+98,Consensus-based robust decentralized task assignment for heterogeneous robot networks,"Di Paola, Donato, Naso, David, Turchiano, Biagio",2011,IEEE,IEEE,1,0,1,0,0.0,0.5,1.1666666666666665
+99,Constrained UAV mission planning: A comparison of approaches,"Leary, Stephen, Deittert, Markus, Bookless, John",2011,Scopus,IEEE,1,0.5,0.5,0.5,0.0,0.0,1.1666666666666665
+100,Cooperative Control of UAV Based on Multi-Agent System,"Jian Han, Chang-hong Wang, Guo-xing Yi",2013,IEEE,IEEE,0.5,0.5,0.5,1,0.0,0.0,1.5
+101,Cooperative Forest Fire Monitoring Using Multiple UAVs,"Sujit, P B, Kingston, Derek, Beard, Randy",2007,IEEE,IEEE,1,0.5,1,1,0.0,0.0,1.8333333333333333
+102,Cooperative Patrol Planning of Multi-Robot Systems by a Competitive Auction System,"Hwang, Kao-Shing, Lin, Jin-Ling, Huang, Hui-Ling",2009,IEEE,IEEE,1,0,0.5,1,0.0,0.0,1.5
+103,Cooperative Task Allocation of Multi-robots System in Complex Environment*,Xiaoyun Xu,2008,IEEE,IEEE,1,0.5,1,1,0.5,0.5,2.833333333333333
+104,Cooperative Task Assignment Algorithm of Manned/ Unmanned Aerial Vehicle in Uncertain Environment,"Li, Bo, Yuanxun, Wang, Yanbo, Zhang, Daqing, Chen",2017,IEEE,IEEE,1,0,1,0,0.0,0.0,0.6666666666666666
+105,Cooperative task assignment of multiple UCAVs based on MAS and CNP,"Ying, Yang",2013,IEEE,IEEE,0.5,0,0.5,1,0.0,0.0,1.3333333333333333
+106,Decentralized control methods for self-organizing collaborative robotic teams,"Budenske, John, Murray, Lori",2018,Scopus,Spie,0.5,1,0.5,1,1.0,0.0,2.6666666666666665
+107,Decentralized matroid optimization for topology constraints in multi-robot allocation problems,"Williams, Ryan K., Gasparri, Andrea, Ulivi, Giovanni",2017,IEEE,IEEE,1,0.5,1,1,1.0,0.0,2.833333333333333
+108,Decentralized multi-robot cooperation with auctioned POMDPs,"Capitan, Jesus, Spaan, Matthijs T.J., Merino, Luis, Ollero, Anibal",2012,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+109,Decentralized task allocation for heterogeneous agent systems with constraints on agent capacity and critical tasks,"Binetti, Giulio, Naso, David, Turchiano, Biagio",2012,IEEE,IEEE,1,0,1,0.5,0.5,0.0,1.6666666666666665
+110,Decentralized task allocation for heterogeneous multi-UAV system with task coupling constraints,"Ye, Fang, Chen, Jie, Sun, Qian, Tian, Yuan, Jiang, Tao",2020,SpringerLink,Springer,1,0,1,1,0.5,1.0,3.1666666666666665
+111,Decentralized task allocation for surveillance systems with critical tasks,"Binetti, Giulio, Naso, David, Turchiano, Biagio",2013,ScienceDirect,Elsevier,1,0,1,1,0.0,0.5,2.1666666666666665
+112,Design and Implementation of Reliable Auctioning Algorithms for Multi-Robot Systems,Nazeeruddin Mohammad and Shahabuddin Muhammad,2013,IEEE,IEEE,0.5,0.5,1,1,1.0,1.0,3.6666666666666665
+113,Developing a Distributed Drone DeliverySystem with a Hybrid Behavior PlanningSystem,Daniel KrakowczykJannik WolffAlexandru CiobanuDennis Julian MeyerChristopher-Eyk Hrabia,2018,Scopus,Springer,1,0.5,0.5,1,0.5,0.0,2.1666666666666665
+114,Distributed algorithm design for multi-robot generalized task assignment problem,"Luo, Lingzhi, Chakraborty, Nilanjan, Sycara, Katia",2013,IEEE,IEEE,1,0,1,1,1.0,0.0,2.6666666666666665
+115,Distributed Algorithms for Multirobot Task Assignment with Task Deadline Constraints,"Luo, Lingzhi, Chakraborty, Nilanjan, Sycara, Katia",2015,Scopus,IEEE,1,1,1,1,1.0,0.0,3.0
+116,Distributed and centralized task allocation: When and where to use them,"Van Der Horst, Johannes
+Noble, Jason",2010,IEEE,IEEE,0.5,0.5,1,0.5,0.5,0.5,2.1666666666666665
+117,Distributed boundary coverage with a team of networked miniature robots using a robust market-based algorithm,"Amstutz, Patrick, Correll, Nikolaus, Martinoli, Alcherio",2008,ACM,Springer,1,0.5,1,1,1.0,0.0,2.833333333333333
+118,Distributed Cooperative Planning for multiple UAVs Based on Agent Negotiation,"Long, Tao, Huo, Xiaohua, Niu, Yifeng, Shen, Lincheng",2006,IEEE,IEEE,1,0,0.5,1,0.0,0.0,1.5
+119,Distributed coordinated task allocation for heterogeneous UAVs based on capacities,"Bin, Di, Rui, Zhou, Jiang, Wu, Shaodong, Chen",2013,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+120,"Distributed Coordination, Transportation &amp; Localisation in Industry 4.0","Ruben Van Parys1, Maarten Verbandt1, Marcus Kotz�e2, Peter Coppens1, Jan Swevers1, Herman Bruyninckx2, Johan Philips2, Goele Pipeleers1",2018,IEEE,IEEE,1,0.5,1,0.5,0.0,0.0,1.3333333333333333
+121,Distributed multi-robot coordination in area exploration,"Sheng, Weihua, Yang, Qingyan, Tan, Jindong, Xi, Ning",2006,ScienceDirect,Elsevier,1,0,1,1,1.0,0.5,3.1666666666666665
+122,Distributed Multi-Robot Task Assignment and Formation Control,"Nathan Michael, Michael M. Zavlanos, Vijay Kumar, and George J. Pappas",2008,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+123,Distributed multi-vehicle task assignment in a time-invariant drift field with obstacles,"Bai, Xiaoshan, Yan, Weisheng, Cao, Ming, Xue, Dong",2019,IEEE,IEEE,1,0,1,0.5,1.0,1.0,3.1666666666666665
+124,Distributed on-line dynamic task assignment for multi-robot patrolling,"Farinelli, Alessandro, Iocchi, Luca, Nardi, Daniele",2017,ACM,Springer,1,0.5,1,1,0.0,1.0,2.833333333333333
+125,Distributed Sequential Auctions for Multiple UAV Task Allocation,"Sujit, P B, Beard, Randy",2007,IEEE,IEEE,1,0.5,1,1,1.0,1.0,3.833333333333333
+126,Distributed service-based cooperation in aerial/ground robot teams applied to fire detection and extinguishing missions,"Viguria, Antidio, Maza, Ivan, Ollero, Anibal",2010,Scopus,Taylor & Francis Online,1,1,1,1,1.0,0.0,3.0
+127,Distributed task allocation modeling based on agent topology and protocol for collaborative system,"Hong-Tao, Liang, Kang, Feng Ju",2016,ScienceDirect,Elsevier,0.5,0,1,1,0.5,0.0,2.0
+128,Distributed task assignment for mobile agents,"Moore, Brandon J., Passino, Kevin M.",2007,IEEE,IEEE,1,0,0.5,1,0.0,1.0,2.5
+129,Double auction mechanisms for resource allocation in autonomous networks,"Iosifidis, George, Koutsopoulos, Iordanis",2010,IEEE,IEEE,1,0,1,0,0.0,0.0,0.6666666666666666
+130,Dynamic Multi-Agent Task Allocation with Spatial and Temporal Constraints,"Amador, Sofia, Okamoto, Steven, Zivan, Roie",2014,ACM,AAAI,1,0.5,1,0,0.0,1.0,1.8333333333333333
+131,Dynamic Pricing Algorithms for Task Allocation in Multi-agent Swarms,Pritaviraj Dasguta and Matthew Hoeing,2008,SpringerLink,Springer,1,0.5,1,1,0.5,1.0,3.333333333333333
+132,Dynamic Task Allocation for Heterogeneous Manned-unmanned Aerial Vehicle Teamwork,"Wang, Chang, Wen, Xupeng, Niu, Yifeng, Wu, Lizhen, Yin, Dong, Li, Jie",2019,IEEE,IEEE,0.5,0.5,1,1,0.0,0.0,1.6666666666666665
+133,Dynamic task allocation for multi-robot search and retrieval tasks,"Wei, Changyun, Hindriks, Koen V., Jonker, Catholijn M.",2016,SpringerLink,Springer,1,0,1,0.5,0.0,0.5,1.6666666666666665
+134,Dynamic task allocation for robots via auctions,"Nanjanath, Maitreyi, Gini, Maria",2006,IEEE,IEEE,0.5,0.5,0.5,1,0.0,0.5,2.0
+135,Dynamic task assignment of autonomous AGV system based on multi agent architecture,"Fauadi, Muhammad Hafidz Fazli Bin Md, Lin, Haowen, Murata, Tomohiro",2010,IEEE,IEEE,0.5,0,1,1,1.0,0.5,3.0
+136,Dynamically formed heterogeneous robot teams performing tightly-coordinated tasks,"Jones, E. Gil, Browning, Brett, Dias, M., Bernardine, Argall, Brenna, Veloso, Manuela, Stentz, Anthony",2006,IEEE,IEEE,1,0.5,0.5,1,0.0,0.0,1.6666666666666665
+137,ECNP-based method of distributed dynamic task allocation for multiple observation satellite planning,"Cheng, Si Wei, Chen, Jing, Shen, Lin Cheng, Tao, Yi",2010,IEEE,IEEE,0.5,0,1,1,0.0,0.0,1.5
+138,Efficient Auction Based Coordination for Distributed Multi-Agent Planning in Temporal Domains Using Resource Abstraction,"Hertle, Andreas, Nebel, Bernhard",2018,SpringerLink,Springer,1,0.5,1,1,0.0,0.5,2.333333333333333
+139,Efficient Bids on Task Allocation for Multi-Robot Exploration *,"Sariel, Sanem, Balch, Tucker",2006,Scopus,AAAI,1,1,1,1,0.5,0.0,2.5
+140,Efficient decentralized task allocation for UAV swarms in multi-target surveillance missions,"Li, Teng, Shin, Hyo Sang, Tsourdos, Antonios",2019,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+141,Empirical Evaluation of Auction-Based Coordination of AUVs in a Realistic Simulated Mine Countermeasure Task,"Sariel, Sanem, Balch, Tucker, Stack, Jason",2006,SpringerLink,Springer,1,1,1,1,0.5,0.0,2.5
+142,Evaluating Sequential Single-Item Auctions for Dynamic Task Allocation,Adrian Schoenig and Maurice Pagnucco,2010,SpringerLink,Springer,0.5,0,1,1,0.0,1.0,2.5
+143,Evaluation of Auction-Based Multi-Robot Routing by Parallel Simulation,"Kishimoto, Akihiro, Nagano, Kiyohito",2016,ACM,AAAI,1,0,1,1,0.5,0.5,2.6666666666666665
+144,Evolutionary computation approach to decentralized multi-robot task allocation,"Gao, Ping An, Cai, Zi Xing, Yu, Ling Li",2009,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+145,Experimental analysis of contract net protocol in multi-robot task allocation,"Liekna, Aleksis, Lavendelis, Egons, Grabovskis, Arvids",2013,ACM,Sciendo,1,0,1,0.5,0.0,0.5,1.6666666666666665
+146,Experimental Comparison of Decentralized Task Allocation Algorithms under Imperfect Communication,"Nayak, Sharan, Otte, Michael, Yeotikar, Suyash, Carrillo, Estefany, Rudnick-Cohen, Eliot, Jaffar, Mohamed Khalid M., Patel, Ruchir, Azarm, Shapour, Herrmann, Jeffrey W., Xu, Huan",2020,IEEE,IEEE,1,0,1,1,1.0,1.0,3.6666666666666665
+147,Extended CNP Framework for the Dynamic Pickup and Delivery Problem Solving,"Kouki, Zoulel, Chaar, Besma Fayech, Ksouri, Mekki",2009,SpringerLink,Springer,1,0,1,0.5,0.0,1.0,2.1666666666666665
+148,Extended contract net protocol for multi-robot dynamic task allocation,Zhou Pu-Cheng,2007,Scopus,ANSI,0.5,0,0.5,1,0.0,0.0,1.3333333333333333
+149,Fault-tolerant and self-adaptive market-based coordination using hoplites framework for multi-robot patrolling tasks,"Li, Ning, Li, Minglong, Wang, Yanzhen, Huang, Da, Yi, Wei",2019,Scopus,IEEE,0.5,0.5,0.5,1,0.5,0.0,2.0
+150,From selfish auctioning to incentivized marketing,"Liu, Lantao, Shell, Dylan A., Michael, Nathan",2014,ACM,Springer,1,0,1,1,0.0,1.0,2.6666666666666665
+151,Game theory-based negotiation for multiple robots task allocation,"Cui, Rongxin, Guo, Ji, Gao, Bo",2013,Scopus,Cambridge University Press,1,1,0.5,1,0.5,0.0,2.333333333333333
+152,Gini coefficient-based task allocation for multi-robot systems with limited energy resources,"Wu, Danfeng, Zeng, Guangping, Meng, Lingguo, Zhou, Weijian, Li, Linmin",2018,IEEE,IEEE,0.5,0,1,0.5,0.0,1.0,2.0
+153,GMTA: A Geo-aware Multi-Agent Task Allocation Approach for Scientific Workflows in Container-based Cloud,"Niu, Meng, Cheng, Bo, Feng, Yimeng, Chen, Junliang",2020,IEEE,IEEE,1,0,1,0,1.0,0.5,2.1666666666666665
+154,Greedy extension of localized auction based protocols for wireless robot-robot coordination,"Mezei, I., Malbasa, V., Stojmenovic, I.",2009,Scopus,IEEE,0.5,0,1,1,0.5,0.5,2.5
+155,Heterogeneous Multi-vehicle Task Assignment in a Time-invariant Drift Field with Obstacles*,"Xiaoshan Bai, Weisheng Yan, Ming Cao, Dong Xue",2017,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+156,Heterogeneous Task Allocation and Sequencing via Decentralized Large Neighborhood Search,"Sadeghi, Armin, Smith, Stephen L.",2017,Scopus,World Scientific Publishing,1,1,1,0.5,0.5,0.0,2.0
+157,Hierarchical Distributed Task Allocation for Multi-Robot Exploration,"Hawley, John, Butler, Zack",2013,SpringerLink,Springer,1,0,1,1,0.0,1.0,2.6666666666666665
+158,Hierarchical path generation for distributed mission planning of UAVs,"Yao, Weiran, Wan, Neng, Qi, Naiming",2016,IEEE,IEEE,1,0,1,0,0.0,0.5,1.1666666666666665
+159,Homotopic Approach for Robot Allocation Optimization Coupled with Path Constraints,"Yao, Weiran, Qi, Naiming, Liu, Yongbei, Xu, Song, Du, Desong",2020,IEEE,IEEE,1,0,1,0,0.0,0.5,1.1666666666666665
+160,Hybrid Dynamic Mobile Task Allocation and Reallocation Methodology for Distributed Multi-robot Coordination,"Guanghui Li, Yusuke Tamura, Min Wu, Atsushi Yamashita and Hajime Asama",2012,IEEE,IEEE,0.5,0.5,1,1,0.5,1.0,3.1666666666666665
+161,Imitation learning for task allocation,"Duvallet, Felix, Stentz, Anthony",2010,IEEE,IEEE,1,0.5,1,1,0.0,1.0,2.833333333333333
+162,Implementation of the multiple tasks allocation problem for mobile robots,"Chia, Song Hiang, Guo, Hung, Liao, Yi Lin, Su, Kuo Lan",2011,IEEE,IEEE,0.5,0,0.5,0,0.0,0.0,0.3333333333333333
+163,Improved trade-based multi-robot coordination,"Nicolas, Jouandeau, Zhi, Yan",2011,IEEE,IEEE,1,0.5,1,1,1.0,1.0,3.833333333333333
+164,Improvement and Simulation of Contract-Net-Based Task Allocation for Multi-robot System,Hao Lili and Yang Huizhen,2012,SpringerLink,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+165,Improving combinatorial auctions for multi-robot exploration,"Cavalcante, Rodolfo C., Noronha, Thiago F., Chaimowicz, Luiz",2013,IEEE,IEEE,0.5,0,0.5,1,0.0,1.0,2.333333333333333
+166,Improving Market-Based Task Allocation with Optimal Seed Schedules,"Korsah, G Ayorkor, Kannan, Balajee, Fanaswala, Imran, Dias, M Bernardine",2010,Scopus,Unknown,0.5,0,0.5,1,0.0,1.0,2.333333333333333
+167,Improving sequential single-item auctions,"Zheng, Xiaoming Koenig, Sven Tovey, Craig",2006,IEEE,IEEE,0.5,0,1,1,0.0,0.5,2.0
+168,Improving Task Allocation in Risk-Aware Robotic Sensor Networks via Auction Protocol Selection,"Primeau, Nicolas, Falcon, Rafael, Abielmona, Rami, Groza, Voicu, Petriu, Emil",2016,IEEE,IEEE,0.5,0.5,1,1,1.0,0.0,2.6666666666666665
+169,Integrated Mission Specification and Task Allocation for Robot Teams - Design and Implementation,"Ulam, Patrick, Endo, Yoichiro, Wagner, Alan, Arkin, Ronald",2007,Scopus,IEEE,0.5,0.5,1,1,0.5,0.0,2.1666666666666665
+170,Interoperability in Cloud Robotics - Developing and Matching Knowledge Information Models for Heterogenous Multi-Robot Systems,Jo�ao Quintas1 and Paulo Menezes2 and Jorge Dias3,2017,IEEE,IEEE,1,0,1,0.5,0.0,0.0,1.1666666666666665
+171,Introducing Various Novel Optimization Techniques for Task Allocation in Multi-Vehicles Systems,"Wessam Shoman, Mahmoud El-Barrawy, Youssef Mekhail, Ali B. Bahgat and El-Sayed I. Morgan",2019,IEEE,IEEE,1,0.5,1,1,0.0,1.0,2.833333333333333
+172,Learning Task Performance in Market-Based Task Allocation,"Pippin, Charles, Christensen, Henrik",2013,SpringerLink,Springer,0.5,0,1,1,0.0,0.5,2.0
+173,Learning-enhanced Market-based Task Allocation for Oversubscribed Domains,"Gil, E, Dias, Jones M Bernardine, Stentz, Anthony",2007,IEEE,IEEE,1,0.5,1,1,0.0,1.0,2.833333333333333
+174,Market based multi-robot coordination for a cooperative collecting and transportation problem,"Zhao, Teng, Wang, Ying",2013,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+175,Market-based Approach for Cooperation and Coordination Among Multiple Autonomous Vehicles,"Andras Kokuti, Ahmed Hussein, Arturo de la Escalera, and Fernando Garc�?a",2017,IEEE,IEEE,0.5,0.5,1,1,0.0,1.0,2.6666666666666665
+176,Market-based approach for multi-team robot cooperation,"Lim, C. S., Mamat, R., Braunl, T.",2009,IEEE,IEEE,0.5,0,0.5,1,0.0,0.0,1.3333333333333333
+177,Market-based approach to Multi-robot Task Allocation,"Hussein, Ahmed, Khamis, Alaa",2013,IEEE,IEEE,0.5,0,0,1,0.0,1.0,2.166666666666667
+178,Market-Based Collaborations for Autonomous Operations of Unmanned Air Vehicles,"Yi-Liang Chen, Brian Gregory, Matt Easley, Mark Peot, Joseph Lee, Thomas Altshuler",2006,IEEE,IEEE,1,1,0,1,0.0,0.0,1.6666666666666665
+179,Market-based Coordination in Dynamic Environments Based on the Hoplites Framework,"Zeynab Talebpour, Stefano Savar`e and Alcherio Martinoli",2017,IEEE,IEEE,0.5,1,1,1,0.0,1.0,2.833333333333333
+180,Market-based coordination of coupled robot systems,"Ling Xu, Stentz, A.",2011,IEEE,IEEE,0.5,0,0,1,0.0,0.0,1.1666666666666667
+181,Market-based Coordination Strategies for Physical Multi-Agent Systems *,"Ham, Myungjoo, Agha, Gul",2008,ACM,ACM,0.5,0,0.5,1,0.0,1.0,2.333333333333333
+182,Market-Based Distributed Task Assignment for Rendezvous Mission over Networks with Limited Connectivity,"Oh, Gyeongtaek, Kim, Youdan, Ahn, Jaemyung, Choi, Han-Lim",2014,ScienceDirect,Elsevier,1,0,1,1,1.0,0.0,2.6666666666666665
+183,Market-based distributed task assignment of multiple unmanned aerial vehicles for cooperative timing mission,"Oh, Gyeongtaek, Kim, Youdan, Ahn, Jaemyung, Choi, Han Lim",2017,Scopus,AIAA,1,0.5,1,1,0.5,0.0,2.333333333333333
+184,Market-based Distributed Task Selection in Multi-agent Swarms,"Dasgupta, Prithviraj, Hoeing, Matthew",2006,IEEE,IEEE,0.5,0,1,1,0.0,1.0,2.5
+185,Market-based dynamic task allocation in mobile surveillance systems,"Elmogy, Ahmed M., Khamis, Alaa M., Karray, Fakhri O.",2009,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+186,Market-Based Dynamic Task Allocation using Heuristically Accelerated Reinforcement Learning,"Angelo Gurzoni Jr, Jos�, Tonidandel, Flavio, C Bianchi, Reinaldo A",2011,SpringerLink,Springer,0.5,0.5,1,1,0.0,0.5,2.1666666666666665
+187,Market-based multi-robot coalition formation,"Vig, Lovekesh, Adams, Julie A",2006,Scopus,Unknown,0.5,0.5,1,1,0.0,0.5,2.1666666666666665
+188,Market-based multi-robot task allocation using energy-based bid calculations,"Kaleci, Burak, Parlaktuna, Osman",2012,Scopus,ACTA Press,1,0.5,1,1,0.0,0.5,2.333333333333333
+189,Market-based solution to the allocation of tasks to agents,"Kivelevitch, Elad, Cohen, Kelly, Kumar, Manish",2011,ScienceDirect,Elsevier,1,0,0.5,1,0.0,0.5,2.0
+190,Market-based task allocation by using assignment problem,"Kaleci, Burak, Parlaktuna, Osman, �zkan, Metin, Kirlik, Gokhan",2010,IEEE,IEEE,1,0,1,1,0.5,0.5,2.6666666666666665
+191,Market-based Task Allocation in a Multi-robot Surveillance System ,"Alejandro Pustowka, Eduardo F. Caicedo",2012,IEEE,IEEE,0.5,0,1,1,0.5,0.5,2.5
+192,Market-Based Task Assignment for Cooperative Timing Missions in Dynamic Environments,"Oh, Gyeongtaek, Kim, Youdan, Ahn, Jaemyung, Choi, Han Lim",2017,SpringerLink,Springer,1,0,1,1,1.0,0.5,3.1666666666666665
+193,Market-Based Task Assignment Strategies for Multi-Agent Systems Deployed for Bushfire Fighting,KuangYee Teng and Jayantha Katupitiya,2014,IEEE,IEEE,1,0.5,1,1,0.0,0.0,1.8333333333333333
+194,Mechanism Selection for Multi-Robot Task Allocation,"Schneider, Eric, Sklar, Elizabeth I, Parsons, Simon",2017,Scopus,Springer,1,0,1,0.5,0.0,1.0,2.1666666666666665
+195,Minimising Undesired Task Costs in Multi-Robot Task Allocation Problems with In-Schedule Dependencies,"Heap, Bradford, Pagnucco, Maurice",2014,ACM,AAAI,1,0,1,1,0.0,1.0,2.6666666666666665
+196,Mobile robot task allocation in hybrid wireless sensor networks,"Coltin, Brian, Veloso, Manuela",2010,IEEE,IEEE,1,0,1,0.5,0.5,1.0,2.6666666666666665
+197,Model-predictive target defense by team of unmanned surface vehicles operating in uncertain environments,"Raboin, Eric, Svec, Petr, Nau, Dana, Gupta, Satyandra K.",2013,IEEE,IEEE,1,1,1,0.5,0.0,0.0,1.5
+198,Modeling and analysis of reliable contract net protocol using timed colored Petri nets,"Boukredera, Djamila, Maamri, Ramdane, Aknine, Samir",2013,IEEE,IEEE,1,0,1,1,0.5,0.0,2.1666666666666665
+199,Move and Improve: a Market-Based Mechanism for the Multiple Depot Multiple Travelling Salesmen Problem,"Koub�a, Anis, Cheikhrouhou, Omar, Bennaceur, Hachemi, Sriti, Mohamed Foued, Javed, Yasir, Ammar, Adel",2017,SpringerLink,Springer,1,0.5,1,1,1.0,0.5,3.333333333333333
+200,Multi-agent approach for task allocation and scheduling in cooperative heterogeneous multi-robot team: Simulation results,"Maoudj, A., Bouzouia, B., Hentout, A., Toumi, R.",2015,IEEE,IEEE,1,0,1,1,0.5,0.0,2.1666666666666665
+201,Multi-Agent based Information Warfare System Modeling and Simulation,"Kaiyu, Wu Chenghaiqin, Jiying, Wang",2018,IEEE,IEEE,1,0.5,1,0,0.0,0.0,0.8333333333333333
+202,Multi-Agent Task Allocation Method Based on Auction,Xue-li Tao,2010,SpringerLink,Springer,1,0,0.5,1,0.0,0.5,2.0
+203,Multi-Agent Task Allocation to Minimize Costs of Energy Consumption in the Presence of a Price-Based Demand Response Program,"Ali B. Bahgat, Mohamed Lotfi, Omar M. Shehata, Elsayed I. Morgan, Jo�ao P. S. Catal�ao",2019,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+204,Multi-Agent Task Allocation: Learning When to Say No,Adam Campbell,2008,ACM,ACM,1,0,1,0.5,0.0,1.0,2.1666666666666665
+205,Multi-agent-based auctions for multi-robot exploration,"Ma, Xin, Meng, Fang, Li, Yibin, Chen, Weidong, Xi, Yugeng",2006,IEEE,IEEE,0.5,0,1,0.5,0.0,0.5,1.5
+206,Multi-AUV Cooperative Task Allocation Based on Improved Contract Network,"Juan Li, Kunyu Zhang and Guoqing Xia",2017,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+207,Multi-robot assignment algorithm for tasks with set precedence constraints,"Luo, Lingzhi, Chakraborty, Nilanjan, Sycara, Katia",2011,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+208,Multi-Robot Auctions for Allocation of Tasks with Temporal Constraints,"Nunes, Ernesto, Gini, Maria",2015,ACM,AAAI,1,0,1,1,0.0,1.0,2.6666666666666665
+209,Multi-robot coalition formation in real-time scenarios,"Guerrero, Jos�, Oliver, Gabriel",2012,ScienceDirect,Elsevier,1,0.5,1,1,0.5,0.5,2.833333333333333
+210,Multi-robot Cooperative Pursuit Based on Task Bundle Auctions,Ze-Su CaiLi-Ning SunHai-Bo GaoPu-Cheng ZhouSong-Hao PiaoQing-Cheng Huang,2008,Scopus,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+211,Multi-robot coordination in complex environment with task and communication constraints,"Liu, Yabo, Yang, Jianhua, Zheng, Yao, Wu, Zhaohui, Yao, Min",2013,SagePub,Sage,1,0,1,1,1.0,1.0,3.6666666666666665
+212,Multi-robot coordination in dynamic environments shared with humans,"Talebpour, Zeynab, Martinoli, Alcherio",2018,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+213,Multi-robot CSLAM in the Unknown Environment,"Zhefan Li, Bingwei He, Liwei Zhang",2018,IEEE,IEEE,0.5,0,1,0.5,0.0,0.0,1.0
+214,Multi-Robot Dynamic Task Allocation for Exploration and Destruction,"Dai, Wei, Lu, Huimin, Xiao, Junhao, Zeng, Zhiwen, Zheng, Zhiqiang",2020,SpringerLink,Springer,1,0.5,1,1,0.0,0.5,2.333333333333333
+215,Multi-Robot Exploration Based on Market Approach and Immune Optimizing Strategy,"Xiong, Guangming, Gong, Jianwei, Chen, Huiyan, Su, Zhibao",2007,IEEE,IEEE,1,0,0.5,0,0.0,0.5,1.0
+216,Multi-robot mobility enhanced hop-count based localization in ad hoc networks,"Sit, Terence Chung Hsin, Liu, Zheng, Ang, Marcelo H., Seah, Winston Khoon Guan",2007,Scopus,Elsevier,1,0.5,1,0.5,0.0,0.5,1.8333333333333333
+217,Multi-robot system task allocation mechanism for smart factory,"Yin Huang , Yi Zhang, Hong Xiao",2019,IEEE,IEEE,0.5,0,1,1,0.5,0.0,2.0
+218,Multi-robot target hunting based on dynamic adjustment auction algorithm,"Cao, Jinge, Li, Min, Wang, Zhongya, Li, Jie, Wang, Hanqing",2016,IEEE,IEEE,0.5,0,1,1,0.0,0.5,2.0
+219,Multi-robot Task Allocation Algorithm based on Anxiety Model and Modified Contract Network Protocol,"Xinggang Wang, Buyun Sheng",2017,IEEE,IEEE,0.5,0,0.5,1,1.0,0.5,2.833333333333333
+220,Multi-robot task allocation using CNP combines with neural network,"Yuan, Quande, Guan, Yi, Hong, Bingrong, Meng, Xiangping",2013,SpringerLink,Springer,0.5,0,1,1,0.5,0.0,2.0
+221,Multi-Robot Task Allocation with Tightly Coordinated Tasks and Deadlines using Market-Based Methods,"Gaimari, Robert, Zarrella, Guido, Goodman, Bradley",2007,Scopus,SciTePress,0.5,0.5,1,1,0.5,0.0,2.1666666666666665
+222,Multi-robot Task Planning Based on Improved Distributed Auction Algorithms,"Yusen Wang, Yi Zhang , Haibo Lin ,Jianli Zhao, YiQin Duan",2019,IEEE,IEEE,1,0,0.5,1,0.0,1.0,2.5
+223,Multi-UAV task allocation with communication faults,"Sujit, P. B., Sousa, J. B.",2012,IEEE,IEEE,1,0,1,1,1.0,1.0,3.6666666666666665
+224,Multiagent-based Cooperative Vehicle Routing Using Node Pressure and Auctions,Madhavan Seshadri,2017,Scopus,IEEE,1,1,1,0.5,0.0,1.0,2.5
+225,Multiple UAVs hierarchical dynamic task allocation based on PSO-FSA and decentralized auction,"Cao, Lei, Shun Tan, He, Peng, Hui, Cong Pan, Ming",2014,IEEE,IEEE,0.5,0,1,0.5,1.0,1.0,3.0
+226,Multirobot Task assignement in Active Surveillance,Nelson Gon�alves,2009,SpringerLink,Springer,0.5,0.5,1,1,0.5,0.0,2.1666666666666665
+227,Naval mine countermeasure missions,"Sariel, Sanem, Balch, Tucker, Erdogan, Nadia",2008,IEEE,IEEE,0.5,1,0.5,0.5,1.0,0.0,2.1666666666666665
+228,Negotiation with reaction functions for solving complex task allocation problems,"Zheng, Xiaoming, Koenig, Sven",2009,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+229,Networked architecture for multi-robot task reallocation in dynamic environment,"Li, Xiangpeng, Sun, Dong, Yang, Jie",2009,IEEE,IEEE,1,0,1,1,1.0,0.0,2.6666666666666665
+230,Neural networks-based adaptive bidding with the contract net protocol in multi-robot systems,"Kensler, Jonathan A., Agah, Arvin",2009,ACM,Springer,1,0.5,1,1,0.0,1.0,2.833333333333333
+231,Numerical simulations and comparative study for auction-based sample gathering solutions,"Cozma, Adriana Eliza, Seliman, Virginia Gabriela, Burlacu, Adrian, Kloetzer, Marius",2015,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+232,On Scaling Multi-Agent Task Reallocation Using Market-Based Approach *,"Karmani, Rajesh K, Latvala, Timo, Agha, Gul",2007,IEEE,IEEE,1,0,1,0.5,1.0,1.0,3.1666666666666665
+233,On the Communication Range in Auction-Based Multi-Agent Target Assignment,"Lujak, Marin, Giordani, Stefano",2011,SpringerLink,Springer,1,0,1,1,1.0,0.5,3.1666666666666665
+234,On-the-Fly Decentralized Tasking of Autonomous Vehicles,"Tadewos, Tadewos G., Shamgah, Laya, Karimoddini, Ali",2019,IEEE,IEEE,1,0.5,1,0.5,0.0,0.0,1.3333333333333333
+235,Online Scheduling of a Fleet of Autonomous Vehicles Using Agent-Based Procurement Auctions,Meghana Madhyastha,2017,Scopus,IEEE,1,0.5,1,1,1.0,0.5,3.333333333333333
+236,Optimal bid valuation using path finding for multi-robot task allocation,"�zt�rk, Sava?, Kuzucuo?lu, Ahmet Emin",2015,SpringerLink,Springer,1,0.5,1,0.5,0.5,1.0,2.833333333333333
+237,Partial Agreement Task Assignment Algorithm for Secure Plan Consensus in Multi-Agent System,Ho-Yeon Kim and Han-Lim Choi,2018,IEEE,IEEE,1,0,1,1,0.0,0.5,2.1666666666666665
+238,Performance Based Task Assignment in Multi-Robot Patrolling,Charles Pippin,2013,ACM,ACM,1,0,1,1,0.0,0.5,2.1666666666666665
+239,Performance Evaluation of Auctions WLAN for RoboCup Multi-Robot Cooperation,Mayez A. Al-Mouhamed and Umair F. Siddiqi,2009,IEEE,IEEE,0.5,0,0.5,1,1.0,0.0,2.333333333333333
+240,Performance optimisation of mobile robots in dynamic environments,"Choi, S. H., Zhu, W. K.",2012,IEEE,IEEE,1,0.5,0.5,1,0.5,1.0,3.1666666666666665
+241,Physical interference impact in multi-robot task allocation auction methods,Jos�e Guerrero and Gabriel Oliver,2006,IEEE,IEEE,0.5,0,1,1,0.0,0.5,2.0
+242,Priority Based Multi Robot Task Assignment,"Rahul Goyal, Tushar Sharma, and Ritu Tiwari",2012,SpringerLink,Springer,1,0,1,1,0.0,0.0,1.6666666666666665
+243,Priority-based task allocation in auction-based applications,"Gurel, Ugur, Adar, Nihat, Parlaktuna, Osman",2013,IEEE,IEEE,0.5,0,1,1,0.5,0.5,2.5
+244,Provably-good distributed algorithm for constrained multi-robot task assignment for grouped tasks,"Luo, Lingzhi, Chakraborty, Nilanjan, Sycara, Katia",2015,Scopus,IEEE,1,0,1,1,1.0,1.0,3.6666666666666665
+245,Punctual versus continuous auction coordination for multi-robot and multi-task topological navigation,"Lozenguez, Guillaume, Adouane, Lounis, Beynier, Aur�lie, Mouaddib, Abdel Illah, Martinet, Philippe",2016,SpringerLink,Springer,1,0,1,1,0.5,0.0,2.1666666666666665
+246,Repeated Auctions for Reallocation of Tasks with Pickup and Delivery upon Robot Failure,"Heap, Bradford, Pagnucco, Maurice",2013,Scopus,Springer,1,0,1,1,0.5,0.5,2.6666666666666665
+247,Repeated auctions for robust task execution by a robot team,"Nanjanath, Maitreyi, Gini, Maria",2010,ScienceDirect,Elsevier,1,0.5,1,1,1.0,1.0,3.833333333333333
+248,Repeated Sequential Auctions with Dynamic Task Clusters,"Heap B, Pagnucco M ",2012,Scopus,AAAI,1,0,1,1,0.5,0.5,2.6666666666666665
+249,Repeated Sequential Single-Cluster Auctions with Dynamic Tasks for Multi-Robot Task Allocation with Pickup and Delivery,"Heap, Bradford, Pagnucco, Maurice",2013,SpringerLink,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+250,Research on cluster attack mission planning of multi USVs based on DAM-BBOPSO algorithm,"Jie, Li, Yao, Sun, Zhang, Zhenxing",2013,IEEE,IEEE,1,0.5,0.5,0.5,0.0,1.0,2.1666666666666665
+251,Research on cooperation of multiple agent based on contract-net protocol,"Zhang, Jin, Cao, Yao Qin",2012,IEEE,IEEE,0.5,0,1,1,0.5,0.0,2.0
+252,Research on distributed task allocation algorithm for unmanned aerial vehicles based on consensus theory,"Jin, Liang",2016,IEEE,IEEE,1,1,0.5,1,0.5,0.0,2.333333333333333
+253,Research on multi-task allocation algorithm based on Agent,"Ping, Yang,Tong, Wang, Weidong, Liu, Hua, Liu",2014,IEEE,IEEE,1,0,0.5,1,0.5,0.0,2.0
+254,Research on Task Assignment Optimization Algorithm Based on Multi-Agent,"Zhang, Jie, Wang, Gang, Yao, Xiaoqiang, Song, Yafei, Zhao, Fangzheng",2019,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+255,Resource-based task allocation for multi-robot systems,"Lee, Dong Hyun",2018,ScienceDirect,Elsevier,1,0,1,1,0.5,1.0,3.1666666666666665
+256,Robot coordination for energy-balanced matching and sequence dispatch of robots to events,"Lukic, Milan, Barnawi, Ahmed, Stojmenovic, Ivan",2011,IEEE,IEEE,1,0,1,0,0.5,1.0,2.1666666666666665
+257,Robot Heterogeneity Analysis Based on Extenics *,"Wu, Hao, Tian, Guohui",2007,IEEE,IEEE,0.5,0,0.5,0.5,0.0,0.0,0.8333333333333333
+258,ROBUST MULTI-ROBOT COOPERATION THROUGH DYNAMIC TASK ALLOCATION AND PRECAUTION ROUTINES,"Sariel, Sanem, Balch, Tucker, Erdogan, Nadia",2006,Scopus,IEEE,1,0.5,1,1,0.0,0.0,1.8333333333333333
+259,Robust Multi-robot Task Assignment in Surveillance,"Gon�alves, N, Sequeira, J, Polit�cnico De Tomar, Instituto",2010,ScienceDirect,Elsevier,0.5,0,1,1,0.0,0.0,1.5
+260,Robustness of Market-based Task Allocation in a Distributed Satellite System,"Van Der Horst, Johannes, Noble, Jason, Tatnall, Adrian",2009,SpringerLink,Springer,0.5,0,1,1,0.5,0.5,2.5
+261,S+T: An algorithm for distributed multirobot task allocation based on services for improving robot cooperation,"Antidio Viguria, Ivan Maza and Anibal Ollero",2008,IEEE,IEEE,0.5,0,1,1,1.0,0.0,2.5
+262,Sandholm Algorithm with K-means Clustering Approach for Multi-robot Task Allocation,"Murugappan Elango, Ganesan Kanagaraj, and S.G. Ponnambalam",2013,SpringerLink,Springer,1,0,1,1,0.0,0.5,2.1666666666666665
+263,Scalable task assignment for heterogeneous multi-robot teams,"Garc�a, Paula, Caama�o, Pilar, Duro, Richard J., Bellas, Francisco",2013,SagePub,Sage,1,0.5,1,1,0.0,0.0,1.8333333333333333
+264,Semi-online Task Allocation Algorithm among Cooperative Agents,"Liu, Bo, Luo, Junzhou, Li, Wei",2006,IEEE,IEEE,1,0,0.5,0,0.0,0.5,1.0
+265,Sequential auctions for heterogeneous task allocation in multiagent routing domains,"Thomas, George, Williams, Andrew B.",2009,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+266,Sequential Multi-Agent Task Assignment using Auction Algorithm based on D* Lite,"Woojin Kim, Dong Soo Cho, and H. Jin Kim",2010,IEEE,IEEE,1,0,1,1,0.0,0.0,1.6666666666666665
+267,Sequential single-item auction improvements for heterogeneous multi-robot routing,"Sullivan, Nick, Grainger, Steven, Cazzolato, Ben",2019,ScienceDirect,Elsevier,1,0,1,1,0.5,0.5,2.6666666666666665
+268,SET: An algorithm for distributed multirobot task allocation with dynamic negotiation based on task subsets,"Viguria, Antidio, Maza, Ivan, Ollero, Anibal",2007,IEEE,IEEE,0.5,0,1,1,0.5,1.0,3.0
+269,Simultaneous allocations of multiple tightly-coupled multi-robot tasks to coalitions of heterogeneous robots,"Das, G. P., McGinnity, T. M., Coleman, S. A.",2014,IEEE,IEEE,1,0,1,1,0.5,0.5,2.6666666666666665
+270,"Simultaneous auctions for ""rendez-vous"" coordination phases in multi-robot multi-task mission","Lozenguez, Guillaume, Mouaddib, Abdel Illah; Adouane, Lounis, Beynier, Aur�lie, Martinet, Philippe",2013,ACM,IEEE,1,0,1,1,0.5,0.5,2.6666666666666665
+271,Simultaneous Exploration and Harvestingin Multi-robot Foraging,Zilong Jiao(B)and Jae Oh,2018,Scopus,Springer,0.5,0.5,1,1,0.0,0.5,2.1666666666666665
+272,Social-welfare based task allocation for multi-robot systems with resource constraints,"Kim, Min Hyuk, Kim, Sang Phil, Lee, Seokcheon",2012,Scopus,Elsevier,1,0,1,1,0.5,0.5,2.6666666666666665
+273,Strategy-planned Q-learning Approach for Multi-robot Task Allocation,"Hilal, H, Kay?r, Ezercan, Parlaktuna, Osman",2014,IEEE,IEEE,1,0,1,0.5,0.0,1.0,2.1666666666666665
+274,Study on Multi-agent Task Allocation Based on the Contract Net,"Li, Tiejun,Peng, Yuqing",2007,IEEE,IEEE,0,0,0.5,1,0.0,0.0,1.1666666666666667
+275,Swarm UAVs task and resource dynamic assignment algorithm based on task sequence mechanism,"Fu, Xiaowei, Feng, Peng, Gao, Xiaoguang",2019,Scopus,IEEE,1,0.5,1,1,0.0,0.0,1.8333333333333333
+276,Tactical Level Decision-Making for Platoons of Autonomous Vehicles Using Auction Mechanisms,"Kokkinogenis, Zafeiris, Teixeira, Miguel, D'orey, Pedro M, Rossetti, Rosaldo J F",2019,Scopus,IEEE,1,0.5,1,0.5,0.0,0.5,1.8333333333333333
+277,Task Allocation and Evaluation Model for Holonic Manufacturing System Based on Multi-agent System*,Fuqing Zhao and Qiuyu Zhang,2008,IEEE,IEEE,0.5,0,0.5,1,0.0,0.0,1.3333333333333333
+278,Task allocation and path planning for collaborative autonomous underwater vehicles operating through an underwater acoustic network,"Deng, Yueyue, Beaujean, Pierre Philippe J., An, Edgar, Carlson, Edward",2013,Scopus,Hindawi,0.5,0.5,1,0.5,1.0,0.5,2.6666666666666665
+279,Task allocation for reconfigurable teams,"Butler, Zack, Hays, Jacob",2015,ScienceDirect,Elsevier,0.5,0.5,1,1,0.5,0.5,2.6666666666666665
+280,Task allocation of multi-AUVs based on innovative auction algorithm,"Zhang, Ziying, Wang, Jien Xu, Dongn, Meng, Yulong",2018,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+281,Task Allocation Performance Comparison for Low Power Devices,"Nayim Rahman, Tanvir Atahary, Chris Yakopcic, Tarek M. Taha, Scott Douglass",2018,IEEE,IEEE,1,0,1,0.5,0.0,1.0,2.1666666666666665
+282,Task Allocation Strategy Based on Variances in Bids for Large-Scale Multi-Agent Systems,"Sugawara, Toshiharu",2013,SpringerLink,Springer,1,0,1,1,0.5,0.5,2.6666666666666665
+283,Task allocation with executable coalitions in multirobot tasks,"Zhang, Yu, Parker, Lynne E.",2012,IEEE,IEEE,0.5,0.5,1,0.5,0.0,0.0,1.1666666666666665
+284,Task assignment for Multi-UAV using contract net based on filter model,"Fan, Tong Shun, Qin, Zheng",2010,IEEE,IEEE,0.5,0.5,1,1,0.5,0.5,2.6666666666666665
+285,Task Selection in Multi-Agent Swarms using Adaptive Bid Auctions,"Dasgupta, Prithviraj, Hoeing, Matthew",2007,IEEE,IEEE,1,0,1,1,0.0,1.0,2.6666666666666665
+286,The effect of load on agent-based algorithms for distributed task allocation,"Goldingay, Harry, Van Mourik, Jort",2013,ScienceDirect,Elsevier,1,0.5,1,0.5,0.0,1.0,2.333333333333333
+287,Token-based autonomous task allocation in flocking systems,"Kokuti, Andras, Simon, Vilmos, Wiandt, Bernat",2016,IEEE,IEEE,1,0,0.5,0.5,0.5,1.0,2.5
+288,Topology-aware optimal task allocation for mission critical environment - A decentralized approach,"Ahmed, Shameem, Nahrstedt, Klara, Wang, Guijun",2011,IEEE,IEEE,1,0.5,1,1,0.5,0.5,2.833333333333333
+289,Using auction-based task allocation scheme for simulation optimization of search and rescue in disaster relief,"Tang, Jian, Zhu, Kejun, Guo, Haixiang, Gong, Chengzhu, Liao, Can, Zhang, Shuwen",2018,ScienceDirect,Elsevier,1,0.5,1,1,0.0,0.5,2.333333333333333
+290,Variable patrol planning of multi-robot systems by a cooperative auction system,"Lin, Jin Ling, Hwang, Kao Shing, Huang, Hui Ling",2012,ACM,Taylor & Francis Online,1,0,1,1,0.0,0.5,2.1666666666666665
+291,Yard crane and AGV scheduling in automated container terminal: A multi-robot task allocation framework,"Chen, Xuchao, He, Shiwei, Zhang, Yongxiang, Tong, Lu (Carol), Shang, Pan, Zhou, Xuesong",2020,ScienceDirect,Elsevier,1,1,1,1,0.0,0.5,2.5
